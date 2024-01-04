@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int secretNo = 4;
+    int secretNo = 8;
     int guessNo;
 
     int guessLimit = 3;
